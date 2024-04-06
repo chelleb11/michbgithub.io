@@ -1,0 +1,35 @@
+.yorklogo {
+  width: 160px;
+  height: 160px;
+  position: relative;
+}
+
+img {
+    max-width: 75px;
+    float: left;
+    margin-right: 15px;
+}
+
+.yorktext {
+  width: 160px;
+  height: 160px;
+  position: relative;
+}
+
+.wlmaclogo {
+  width: 160px;
+  height: 160px;
+  position: relative;
+}
+
+img {
+    max-width: 75px;
+    float: left;
+    margin-right: 15px;
+
+.wlmactext {
+  width: 160px;
+  height: 160px;
+  position: relative;
+}
+
